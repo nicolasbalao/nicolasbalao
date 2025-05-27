@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm nicolas balao</h1>
 <h3 align="center">A passionate of technologies</h3>
 
-- 🌱 I’m currently learning **Docker, Terraform, Ansible**
-
 - 📫 How to reach me **nicolasbalao.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
